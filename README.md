@@ -7,4 +7,8 @@
 
 
 დავალება-2
-● Loading ....
+● responsive 50%
+● Visual burger-bar
+● ესეთ კოდს აღარ დავწერ პირობას ვდებ (:
+![image](https://github.com/user-attachments/assets/871f7720-3fae-4577-9fba-7a063eee6f20)
+
